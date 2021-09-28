@@ -2,7 +2,7 @@
 
 ### 1. VIDEO STORE
 
-Refactor the `Customer.statement` method by applying the concepts described in `Chapter 3: Functions` 
+Refactor the `Customer.print` method by applying the concepts described in `Chapter 3: Functions` and `Chaper 4: Comments` 
 
 - Do One Thing
 - One Level of Abstraction per Function
