@@ -19,7 +19,11 @@ class Customer {
 		return _name;
 	}
 
-	public String statement() {
+	/**
+	 * Print the total amount owed for REGULAR and NEW_RELEASE MOVIES
+	 * @return a string with text
+	 */
+	public String print() {
 		double totalAmount = 0;
 		int frequentRenterPoints = 0;
 		Enumeration rentals = _rentals.elements();
