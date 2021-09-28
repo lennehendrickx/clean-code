@@ -1,0 +1,17 @@
+.idea/
+/artifact/
+.DS_Store
+.log
+.gradle
+*.
+build
+build/
+classes/
+out/
+out-test/
+.gradle/
+*.iml
+.DS_store
+*.log
+*.jtl
+*.orig
