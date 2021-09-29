@@ -17,7 +17,7 @@ public class CustomerTest {
         
         var expected = "Rental Record for John Doe\n"
                 + "	Star Wars	18.0\n"
-                + "	Sofia	7.5\n"
+                + "	Peppa Big	7.5\n"
                 + "	Inception	6.5\n"
                 + "Amount owed is 32.0\n"
                 + "You earned 4 frequent renter points";
